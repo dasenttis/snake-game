@@ -10,8 +10,8 @@
 ## Установка
 1. Склонируйте репозиторий или загрузите исходные файлы проекта.
 ```bash
-git clone https://github.com/ваш_репозиторий/snake-game.git
-cd smeyka
+git clone https://github.com/dasenttis/snake-game.git
+cd snake-game
 ```
 2. Установите необходимые библиотеки:
 ```bash
